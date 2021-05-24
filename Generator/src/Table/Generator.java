@@ -52,4 +52,25 @@ public class Generator {
     public String Citroeny[] = {"C1","C3","C4","C4 Cactus"};
 
     public String Mitsubishi[] = {"ASX","L200","Outlander","Eclipse","Galant","Lancer"};
+
+    public String nazwyDni[] = {"Poniedziałek","Wtorek","Środa","Czwartek","Piątek","Sobota","Niedziela"};
+
+    public String nazwyMiesiacy[] = {"Styczeń","Luty","Marzec","Kwiecień","Maj","Czerwiec","Lipiec","Sierpień","Wrzesień","Październik","Listopad","Grudzień"};
+
+    public String Kwartaly[] = {"Pierwszy kwartał","Drugi kwartał","Trzeci kwartał","Czwarty kwartał"};
+
+    public int rok[] = {2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021};
+
+    public String wojewodztwa[] = {" woj. zachodnio-pomorskie","woj. pomorskie","woj. warmińsko-mazurskie","woj. lubuskie","woj. wielkopolskie","woj. kujawsko-pomorskie","woj. mazowieckie","woj. podlaskie","woj. dolnośląskie","woj. łódzkie","woj. lubelskie","woj. opolskie","woj. śląskie","woj. małopolskie","woj. świętokrzyskie","woj. podkarpackie","woj. lubelskie"};
+
+    public String nazwyMiast[] = {"Stara Wieś","Podlesie","Piaski","Nowa Wieś","Kolonia","Góra","Dół","Dąbrowa","Górki","Folwark",
+    "Zalesie","Kąty","Góry","Górka","Zagórze","Zagrody","Pod Lasem","Budy","Błonie","Dwór","Dąbrówka","Podlas","Borek","Nowiny",
+    "Wygoda","Łazy","Podgórze","Dział","Borki","Dębina","Cegielnia","Zarzecze","Granice","Kresy","Kamionka","Bugaj","Kamieniec",
+    "Józefów","Przymiarki","Brzeziny"};
+
+    public String nazwyUlic[] = {"1 Maja","3 Maja","11 Listopada","Akademicka","gen. Władysława Andersa","Armii Krajowej","Balonowa","Bankowa","Bernadyńska",
+    "Beskidzka","Bielska","Bożego Ciała","Bracka","Kamienna","Kanomia","Kasprowicza","Katowicka","Klasztorna","Kolejowa","Kilińskiego","Krakowska","Krucza",
+            "Puławska","Rajska","Racłwicka","Reja","Reymonta","Rycerska","Sandomierska","Sienkiewicza","Sienna","Skargi","Słowackiego","Chłodna","Ciasna",
+    "Długa","Chopina","Chmielna","Chorzowska","Częstochowska","Dworcowa","Dąbrowskiego","Śląska","Fabryczna","Mariacka","Mickiewicza","Młyńska"};
+
 }

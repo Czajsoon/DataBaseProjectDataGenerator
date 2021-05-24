@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.math.BigDecimal;
 
-public class Worker extends Generator{
+public class Worker extends Curse{
     private int ID_kierowcy;
     private String wPlec;
     private String wImie;

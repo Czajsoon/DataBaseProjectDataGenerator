@@ -9,6 +9,7 @@ public class Brand extends Car{
     private String nazwa;
 
     public Brand(){
+
         try{
             PrintWriter zapis = new PrintWriter("Marki.csv");
             int id =1;

@@ -3,7 +3,7 @@ package Table;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-public class Client extends Generator {
+public class Client extends Curse {
     private int ID_Klienta;
     private String cImie;
     private String cNazwisko;

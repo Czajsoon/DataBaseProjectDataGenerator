@@ -3,7 +3,7 @@ package Table;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
-public class Car extends Generator{
+public class Car extends Curse{
     private int Id_pojazdu;
     private int ID_typu;
     private int Id_kolor;
